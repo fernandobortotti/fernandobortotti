@@ -1,7 +1,7 @@
 ## Seja bem vindo! Sou o Fernando Bortotti
 
 
-- 🌱 Estudando python, javascript, linux
+- 🌱 Estudando python, javascript, linux e hacking ...
 
 <div align="center">
   <a href="https://github.com/fernandobortotti">
