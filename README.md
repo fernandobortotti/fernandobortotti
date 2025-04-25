@@ -21,9 +21,9 @@ Ao longo da minha carreira, desenvolvi conhecimento e domínio das principais fe
   <a href="https://github.com/fernandobortotti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandobortotti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="180em" src = "https://github-readme-streak-stats.herokuapp.com?user=fernandobortotti&theme=github-dark" >
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fernandobortotti&theme=github-dark" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fernandobortotti&theme=github-dark)](https://git.io/streak-stats)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
