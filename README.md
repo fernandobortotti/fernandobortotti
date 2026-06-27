@@ -1,7 +1,7 @@
 ## Seja bem vindo! Sou o Fernando Bortotti
 
 
-- 🌱 Atuo como pentester e bug hunter, com ampla experiência na identificação e exploração de vulnerabilidades em aplicações web e mobile. Minha participação em programas de bug bounty resultou na descoberta e reporte de diversas falhas de segurança, contribuindo para a melhoria contínua da segurança das aplicações. Algumas das vulnerabilidades que identifiquei são publicadas no meu blog: [https://fernandobortotti.github.io/artigos/](https://fernandobortotti.github.io/artigos/).
+- 🌱 Atuo como pentester (atualmente tenho 6 cves https://www.cve.org/CVERecord/SearchResults?query=bortotti) e bug hunter, com ampla experiência na identificação e exploração de vulnerabilidades em aplicações web e mobile. Minha participação em programas de bug bounty resultou na descoberta e reporte de diversas falhas de segurança, contribuindo para a melhoria contínua da segurança das aplicações. Algumas das vulnerabilidades que identifiquei são publicadas no meu blog: [https://fernandobortotti.github.io/artigos/](https://fernandobortotti.github.io/artigos/).
 
 ### Experiência
 
